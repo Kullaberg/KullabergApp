@@ -383,3 +383,19 @@ img.logoImg:hover {
     -webkit-transform: translate3d(0, 18px, 0) scale(0, 0);
     transform: translate3d(0, 18px, 0) scale(0, 0);
 }
+
+#europeiska-jordbruksfonden.modal {
+    max-width: 50%;
+}
+
+@media only screen and (min-width: 992px) {
+    #europeiska-jordbruksfonden.modal {
+        max-width: 40%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #europeiska-jordbruksfonden.modal {
+        max-width: 30%;
+    }
+}

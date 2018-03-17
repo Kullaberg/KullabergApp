@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xtreemze/KullabergApp.git"
+    "url": "git+https://github.com/Kullaberg/KullabergApp.git"
   },
   "author": "Carlos Velasco",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/xtreemze/KullabergApp/issues"
+    "url": "https://github.com/Kullaberg/KullabergApp/issues"
   },
-  "homepage": "https://github.com/xtreemze/KullabergApp#readme",
+  "homepage": "https://github.com/Kullaberg/KullabergApp#readme",
   "browserslist": [
     "> 1%",
     "last 2 versions"
